@@ -1,11 +1,11 @@
 [
   {
-    
     "Title": "Avatar",
     "Year": "2009",
     "Rated": "PG-13",
     "Released": "18 Dec 2009",
     "Runtime": "162 min",
+    "favorite":"true",
     "Genre": "Action, Adventure, Fantasy",
     "Director": "James Cameron",
     "Writer": "James Cameron",
@@ -51,6 +51,7 @@
     "imdbID": "tt0480249",
     "Type": "movie",
     "Response": "True",
+    "favorite":"true",
     "Images": [
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDg2MDU4M15BMl5BanBnXkFtZTYwMTA0Nzc4._V1_.jpg",
